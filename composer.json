@@ -3,6 +3,18 @@
   "description": "SQL table supporter",
   "minimum-stability": "stable",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "ribnil"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": [
+        "src/"
+      ]
+    }
+  },
   "repositories": {
     "oirancage/litemold": {
       "type": "git",
