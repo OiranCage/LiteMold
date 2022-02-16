@@ -1,7 +1,7 @@
 <?php
 
 
-namespace litemold\model\component;
+namespace litemold\component;
 
 
 class Table
