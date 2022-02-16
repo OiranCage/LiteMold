@@ -14,12 +14,5 @@
         "src/"
       ]
     }
-  },
-  "repositories": {
-    "oirancage/litemold": {
-      "type": "git",
-      "name": "oirancage/litemold",
-      "url": "https://github.com/OiranCage/LiteMold"
-    }
   }
 }
