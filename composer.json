@@ -1,0 +1,6 @@
+{
+  "name": "oirancage/litemold",
+  "description": "SQL table supporter",
+  "minimum-stability": "stable",
+  "license": "MIT"
+}
