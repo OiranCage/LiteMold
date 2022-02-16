@@ -5,7 +5,8 @@
   "license": "MIT",
   "repositories": {
     "oirancage/litemold": {
-      "type": "vcs",
+      "type": "git",
+      "name": "oirancage/litemold",
       "url": "https://github.com/OiranCage/LiteMold"
     }
   }
