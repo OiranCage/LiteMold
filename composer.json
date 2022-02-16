@@ -2,5 +2,11 @@
   "name": "oirancage/litemold",
   "description": "SQL table supporter",
   "minimum-stability": "stable",
-  "license": "MIT"
+  "license": "MIT",
+  "repositories": {
+    "oirancage/litemold": {
+      "type": "vcs",
+      "url": "https://github.com/OiranCage/LiteMold"
+    }
+  }
 }
