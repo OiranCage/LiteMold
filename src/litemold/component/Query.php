@@ -18,4 +18,8 @@ class Query
 	public function addStatement(string $statement) {
 		$this->statement .= $statement;
 	}
+
+	public function getStatement(): string {
+		return $this->statement;
+	}
 }
